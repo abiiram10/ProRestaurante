@@ -1,0 +1,17 @@
+C:\Users\A10\source\repos\ProRestaurante\ProRestaurante\bin\Debug\ProRestaurante.exe.config
+C:\Users\A10\source\repos\ProRestaurante\ProRestaurante\bin\Debug\ProRestaurante.exe
+C:\Users\A10\source\repos\ProRestaurante\ProRestaurante\bin\Debug\ProRestaurante.pdb
+C:\Users\A10\source\repos\ProRestaurante\ProRestaurante\obj\Debug\ProRestaurante.csprojAssemblyReference.cache
+C:\Users\A10\source\repos\ProRestaurante\ProRestaurante\obj\Debug\ProRestaurante.Form1.resources
+C:\Users\A10\source\repos\ProRestaurante\ProRestaurante\obj\Debug\ProRestaurante.Properties.Resources.resources
+C:\Users\A10\source\repos\ProRestaurante\ProRestaurante\obj\Debug\ProRestaurante.csproj.GenerateResource.cache
+C:\Users\A10\source\repos\ProRestaurante\ProRestaurante\obj\Debug\ProRestaurante.csproj.CoreCompileInputs.cache
+C:\Users\A10\source\repos\ProRestaurante\ProRestaurante\obj\Debug\ProRestaurante.exe
+C:\Users\A10\source\repos\ProRestaurante\ProRestaurante\obj\Debug\ProRestaurante.pdb
+C:\Users\A10\source\repos\ProRestaurante\ProRestaurante\bin\Debug\MySql.Data.dll
+C:\Users\A10\source\repos\ProRestaurante\ProRestaurante\bin\Debug\Google.Protobuf.dll
+C:\Users\A10\source\repos\ProRestaurante\ProRestaurante\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\A10\source\repos\ProRestaurante\ProRestaurante\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\A10\source\repos\ProRestaurante\ProRestaurante\bin\Debug\Renci.SshNet.dll
+C:\Users\A10\source\repos\ProRestaurante\ProRestaurante\bin\Debug\MySql.Data.xml
+C:\Users\A10\source\repos\ProRestaurante\ProRestaurante\obj\Debug\ProRestaurante.csproj.CopyComplete
